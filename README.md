@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://raw.githubusercontent.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
@@ -33,19 +33,19 @@
 
 Create a website from a prototype of a NZ Marketing Association Webpage with mobile responsive required. 
 
-![NZ Marketing Association Prototype Phone Image](https://raw.githubusercontent.com/Avacia/MarketAssociation/tree/main/public/prototypePhone.png)
-![NZ Marketing Association Prototype Web Image](https://raw.githubusercontent.com/Avacia/MarketAssociation/tree/main/public/prototypeWeb.png)
+![NZ Marketing Association Prototype Phone Image](https://github.com/Avacia/MarketAssociation/tree/main/public/prototypePhone.png)
+![NZ Marketing Association Prototype Web Image](https://github.com/Avacia/MarketAssociation/tree/main/public/prototypeWeb.png)
 
 
 
 This project is for NZ Marketing Association that allow user to find the crypto price for the current market.
 
-![NZ Marketing Association](https://raw.githubusercontent.com/Avacia/MarketAssociation/tree/main/public/main.png)
+![NZ Marketing Association](https://github.com/Avacia/MarketAssociation/tree/main/public/main.png)
 
 
 
     The folder structure will look like the image below:
-![React folder structure](https://raw.githubusercontent.com/Avacia/MarketAssociation/tree/main/public/folderStructure.png)
+![React folder structure](https://github.com/Avacia/MarketAssociation/tree/main/public/folderStructure.png)
 
     The main feature of the webpage:
     
@@ -55,15 +55,15 @@ This project is for NZ Marketing Association that allow user to find the crypto 
     - Animation of headSection used react-spring & typewriter-effect library.
 
     
-  ![Mobile Responsive](https://raw.githubusercontent.com/Avacia/MarketAssociation/tree/main/public/phoneVersion.png)
-  ![Ipad Responsive](https://raw.githubusercontent.com/Avacia/MarketAssociation/tree/main/public/ipadVersion.png)
+  ![Mobile Responsive](https://github.com/Avacia/MarketAssociation/tree/main/public/phoneVersion.png)
+  ![Ipad Responsive](https://github.com/Avacia/MarketAssociation/tree/main/public/ipadVersion.png)
 
 
      
     - Animation of icons images used lottie-react library.
 
     
-  ![Head Section](https://raw.githubusercontent.com/Avacia/MarketAssociation/tree/main/public/headsection.png) 
+  ![Head Section](https://github.com/Avacia/MarketAssociation/tree/main/public/headsection.png) 
 
 
   
@@ -75,8 +75,8 @@ This project is for NZ Marketing Association that allow user to find the crypto 
 
     - The footer will contain a list of Copy right info.
 
-  ![Body Section](https://raw.githubusercontent.com/Avacia/MarketAssociation/tree/main/public/bodySection.png)
-  ![Foot Section](https://raw.githubusercontent.com/Avacia/MarketAssociation/tree/main/public/footSection.png) 
+  ![Body Section](https://github.com/Avacia/MarketAssociation/tree/main/public/bodySection.png)
+  ![Foot Section](https://github.com/Avacia/MarketAssociation/tree/main/public/footSection.png) 
 
 
  
@@ -176,7 +176,7 @@ This is an command that you will need to use before you start the project.
 
 Yen Wang - [@avaciaroger](https://www.youtube.com/channel/UCBp5I4NfVnBcjareGQDfPmQ) - wang80139@gmail.com
 
-Project Link: [https://raw.githubusercontent.com/Avacia/L5-mission.git](https://raw.githubusercontent.com/Avacia/L5-mission.git)
+Project Link: [https://github.com/Avacia/L5-mission.git](https://github.com/Avacia/L5-mission.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
