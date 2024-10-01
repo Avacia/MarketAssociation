@@ -33,19 +33,19 @@
 
 Create a website from a prototype of a NZ Marketing Association Webpage with mobile responsive required. 
 
-![NZ Marketing Association Prototype Phone Image](https://github.com/Avacia/L5-mission/blob/main/mission0-Frontend/public/prototypePhone.png)
-![NZ Marketing Association Prototype Web Image](https://github.com/Avacia/L5-mission/blob/main/mission0-Frontend/public/prototypeWeb.png)
+![NZ Marketing Association Prototype Phone Image](https://github.com/Avacia/L5-mission/blob/main/public/prototypePhone.png)
+![NZ Marketing Association Prototype Web Image](https://github.com/Avacia/L5-mission/blob/main/public/prototypeWeb.png)
 
 
 
 This project is for NZ Marketing Association that allow user to find the crypto price for the current market.
 
-![NZ Marketing Association](https://github.com/Avacia/L5-mission/blob/main/mission0-Frontend/public/main.png)
+![NZ Marketing Association](https://github.com/Avacia/L5-mission/blob/main/public/main.png)
 
 
 
     The folder structure will look like the image below:
-![React folder structure](https://github.com/Avacia/L5-mission/blob/main/mission0-Frontend/public/folderStructure.png)
+![React folder structure](https://github.com/Avacia/L5-mission/blob/main/public/folderStructure.png)
 
     The main feature of the webpage:
     
@@ -55,15 +55,15 @@ This project is for NZ Marketing Association that allow user to find the crypto 
     - Animation of headSection used react-spring & typewriter-effect library.
 
     
-  ![Mobile Responsive](https://github.com/Avacia/L5-mission/blob/main/mission0-Frontend/public/phoneVersion.png)
-  ![Ipad Responsive](https://github.com/Avacia/L5-mission/blob/main/mission0-Frontend/public/ipadVersion.png)
+  ![Mobile Responsive](https://github.com/Avacia/L5-mission/blob/main/public/phoneVersion.png)
+  ![Ipad Responsive](https://github.com/Avacia/L5-mission/blob/main/public/ipadVersion.png)
 
 
      
     - Animation of icons images used lottie-react library.
 
     
-  ![Head Section](https://github.com/Avacia/L5-mission/blob/main/mission0-Frontend/public/headsection.png) 
+  ![Head Section](https://github.com/Avacia/L5-mission/blob/main/public/headsection.png) 
 
 
   
@@ -75,8 +75,8 @@ This project is for NZ Marketing Association that allow user to find the crypto 
 
     - The footer will contain a list of Copy right info.
 
-  ![Body Section](https://github.com/Avacia/L5-mission/blob/main/mission0-Frontend/public/bodySection.png)
-  ![Foot Section](https://github.com/Avacia/L5-mission/blob/main/mission0-Frontend/public/footSection.png) 
+  ![Body Section](https://github.com/Avacia/L5-mission/blob/main/public/bodySection.png)
+  ![Foot Section](https://github.com/Avacia/L5-mission/blob/main/public/footSection.png) 
 
 
  
